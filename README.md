@@ -18,5 +18,6 @@ GermoCars is a curated collection of the finest German-engineered cars, where en
 
 - **Stay Updated:** Regularly updated with new additions to the collection, ensuring that you are always informed about the latest and greatest German-engineered automobiles.
 
-##Getting Started
-https://germocars.netlify.app/
+**Getting Started**
+
+  https://germocars.netlify.app/
