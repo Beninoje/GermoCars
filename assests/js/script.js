@@ -75,7 +75,37 @@ scroll.reveal('.home_perfil, .about_image , .contact_mail',{origin:'right'})
 scroll.reveal('.home_name, .home_info, .about_container, .section_title-1, .section_title-2, .about_info, .contact_social, .contact_data ', {origin: 'left'})
 scroll.reveal('.services_card, .projects_card, .skill',{interval:100})
 
-
+// document.addEventListener("DOMContentLoaded", function() {
+//     const notificationModal = document.getElementById("notificationModal");
+//     const overlay = document.createElement("div");
+//     overlay.className = "overlay";
+  
+//     // Check local storage to determine if the user has visited before
+//     // const hasVisited = localStorage.getItem("hasVisited");
+  
+//     // if (!hasVisited) {
+//       // Show the overlay and modal on the user's first visit
+//       document.body.appendChild(overlay);
+//       overlay.style.display = "block";
+//       notificationModal.style.display = "block";
+  
+//       // Use setTimeout to give time for the modal to be displayed before changing its position
+//       setTimeout(function() {
+//         notificationModal.style.bottom = "0";
+//       }, 100);
+  
+//       // Set the local storage flag to indicate that the user has visited
+//     //   localStorage.setItem("hasVisited", "true");
+//     //}
+  
+//     // Function to close the modal
+//     window.closeModal = function() {
+//       overlay.style.display = "none";
+//       notificationModal.style.bottom = "-100%";
+//       document.body.style.overflow = "auto"; // Restore scrolling
+//     };
+//   });
+  
 
 
 
